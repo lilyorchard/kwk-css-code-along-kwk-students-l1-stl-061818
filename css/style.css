@@ -1,1 +1,14 @@
 /* add CSS class and element and selectors here */
+
+body {
+  background-color: #6ADBFF; 
+  font-size:200%;
+}
+.lilySampleClass {
+  font-family: Arizonia;
+  font-size:500%;
+  color: #0A867C;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  background:#FD8690;
+  border: 10px dotted white;
+}
